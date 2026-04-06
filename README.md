@@ -261,10 +261,6 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-
-
 ### ✍️ Dev Quote of the Day
 
 <div align="center">
@@ -288,7 +284,7 @@
 
 ---
 
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
