@@ -277,10 +277,6 @@
 ---
 
 
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=rsamwilson2323-cloud&icon=10&color=6)](https://visitcount.itsvg.in)
-
 ### 💰 Support My Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-wilson-14b554385)
@@ -294,4 +290,5 @@
 
 ---
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
