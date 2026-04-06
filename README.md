@@ -261,6 +261,9 @@
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+
 
 ### ✍️ Dev Quote of the Day
 
