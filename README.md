@@ -12,35 +12,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aungku-km/aungku-km/main/assets/img/pacman.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6R9oETNqKivE7C/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13GVXmAAzB6CBq/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a4/09/b7/a409b7c84cdbb1aade0cffbffe73b5bd.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VgfzyErZESrW1D2XbL/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-3d-contrib/profile-night-view.svg" width="100%" />
-</p>
-
-
----
-
-
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 
