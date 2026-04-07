@@ -260,12 +260,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
-<div align="center">
-  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
-</div>
-
 ---
 
 ### ✍️ Dev Quote of the Day
