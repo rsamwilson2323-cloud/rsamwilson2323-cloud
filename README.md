@@ -12,26 +12,32 @@
 
 ---
 
-<img src="https://media.giphy.com/media/y0sE6YQ5z7yqA/giphy.gif" width="150" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aungku-km/aungku-km/main/assets/img/pacman.gif" width="100%" />
+</p>
 
-<img src="https://media.giphy.com/media/xT1R9B7cgalepCBvXy/giphy.gif" width="200" />
+<p align="center">
+  <img src="https://media.giphy.com/media/26n6R9oETNqKivE7C/giphy.gif" width="100%" />
+</p>
 
-<img src="https://media.giphy.com/media/O2K7wIcw3CoeY/giphy.gif" width="200" />
+<p align="center">
+  <img src="https://media.giphy.com/media/13GVXmAAzB6CBq/giphy.gif" width="100%" />
+</p>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a4/09/b7/a409b7c84cdbb1aade0cffbffe73b5bd.gif" width="100%" />
+</p>
 
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="250" />
+<p align="center">
+  <img src="https://media.giphy.com/media/VgfzyErZESrW1D2XbL/giphy.gif" width="100%" />
+</p>
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="100" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-3d-contrib/profile-night-view.svg" width="100%" />
+</p>
 
-<img src="https://media.giphy.com/media/8YZpVrMjEwEvRarX21/giphy.gif" width="150" />
 
-<a href="#">
-  <img align="right" src="https://media.giphy.com/media/O2K7wIcw3CoeY/giphy.gif" width="200" />
-</a>
 
-# Hi there! I'm Sam Wilson 👋
-I'm a developer who loves building cool things...
 
 
 ---
