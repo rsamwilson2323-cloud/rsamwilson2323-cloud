@@ -13,53 +13,60 @@
 ---
 
 <div align="center">
-
 <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background circle -->
   <circle cx="100" cy="100" r="95" fill="#f0f8ff" stroke="#4682b4" stroke-width="3"/>
   
   <!-- Head -->
   <circle cx="100" cy="50" r="25" fill="#ffdab9" stroke="#8b4513" stroke-width="3"/>
-  <!-- Eyes -->
   <circle cx="90" cy="45" r="3" fill="black"/>
   <circle cx="110" cy="45" r="3" fill="black"/>
-  <!-- Smile -->
   <path d="M 85 65 Q 100 75 115 65" stroke="#8b4513" stroke-width="3" fill="none"/>
   
   <!-- Body -->
-  <line id="body" x1="100" y1="75" x2="100" y2="130" stroke="#8b4513" stroke-width="8" stroke-linecap="round"/>
-  
-  <!-- Arms -->
-  <line id="left-arm" x1="100" y1="90" x2="70" y2="110" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
-  <line id="right-arm" x1="100" y1="90" x2="130" y2="105" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
-  
-  <!-- Legs -->
-  <line x1="100" y1="130" x2="85" y2="170" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
-  <line x1="100" y1="130" x2="115" y2="170" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
+  <g transform="rotate(0deg)">
+    <line id="body-line" x1="100" y1="75" x2="100" y2="130" stroke="#8b4513" stroke-width="8" stroke-linecap="round"/>
+    
+    <!-- Arms - animated with CSS -->
+    <line class="arm left-arm" x1="100" y1="90" x2="70" y2="110" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
+    <line class="arm right-arm" x1="100" y1="90" x2="130" y2="105" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Legs -->
+    <line x1="100" y1="130" x2="85" y2="170" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
+    <line x1="100" y1="130" x2="115" y2="170" stroke="#8b4513" stroke-width="6" stroke-linecap="round"/>
+  </g>
 </svg>
-
 </div>
 
-<script>
-const leftArm = document.getElementById('left-arm');
-const rightArm = document.getElementById('right-arm');
-
-function animate() {
-  let time = Date.now() * 0.005;
-  
-  // Waving right arm
-  rightArm.style.transform = `rotate(${Math.sin(time * 3) * 20}deg)`;
-  rightArm.style.transformOrigin = '100px 90px';
-  
-  // Slight body sway
-  document.querySelector('#body').style.transform = `rotate(${Math.sin(time) * 2}deg)`;
-  document.querySelector('#body').style.transformOrigin = '100px 75px';
-  
-  requestAnimationFrame(animate);
+<style>
+@keyframes wave {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(25deg); }
 }
 
-animate();
-</script>
+@keyframes sway {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(-2deg); }
+}
+
+.arm {
+  transform-origin: 100px 90px;
+  animation: wave 2s ease-in-out infinite;
+}
+
+.right-arm {
+  animation-delay: 0s;
+}
+
+.left-arm {
+  animation: wave 2s ease-in-out infinite reverse;
+  animation-delay: 0.5s;
+}
+
+#body-line {
+  transform-origin: 100px 75px;
+  animation: sway 3s ease-in-out infinite;
+}
+</style>
 
 ---
 
