@@ -13,8 +13,44 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400">
 </div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="400">
+</div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iDadMcaG/giphy.gif" width="400">
+</div>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Cool+Things...;Fixing+Bugs...;Always+Learning...;Future+Tech+Leader" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&margin-w=15" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark" width="100%">
+</div>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+</div>
+
+
 
 ---
 
