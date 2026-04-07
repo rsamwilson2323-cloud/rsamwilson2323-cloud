@@ -282,16 +282,6 @@
 
 ---
 
-<div align="center">
-
-<!-- 🐟 FISH ANIMATION (placed above wave) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R0b2V0d2x1bGJ4a3Z3d2R5dGJ5eG5hY2J3eG9vY2F2dWQ2ZzR2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
-
-<!-- 🌊 YOUR COLORFUL RIVER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffcc00,25:00ff88,50:2afadf,75:7928ca,100:ff0080" width="100%"/>
-
-</div>
-
 
 ### 💰 Support My Work
 
@@ -306,6 +296,9 @@
 
 ---
 
+<div align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+  
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffcc00,25:00ff88,50:2afadf,75:7928ca,100:ff0080" width="100%"/>
