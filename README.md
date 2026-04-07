@@ -298,9 +298,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0080,20:ff8c00,40:40e0d0,60:00ff88,80:7a5cff,100:ffcc00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
 
 </div>
 
+---
