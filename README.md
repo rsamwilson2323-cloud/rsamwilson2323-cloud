@@ -12,12 +12,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&animation=fadeIn" />
-</p>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-H/Mayank-H/master/assets/stickman-walking.gif" width="150" />
+  <img src="https://assets.terminallab.org/stickman-typing.gif" width="300" />
 </div>
 
 ---
