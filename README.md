@@ -13,27 +13,7 @@
 ---
 
 <p align="center">
-<svg width="200" height="200" viewBox="0 0 100 100">
-  <circle cx="50" cy="20" r="8" stroke="white" stroke-width="2" fill="none"/>
-  
-  <line x1="50" y1="28" x2="50" y2="55" stroke="white" stroke-width="2"/>
-  
-  <line x1="50" y1="35" x2="30" y2="45" stroke="white" stroke-width="2">
-    <animate attributeName="x2" values="30;35;30" dur="0.5s" repeatCount="indefinite"/>
-  </line>
-  
-  <line x1="50" y1="35" x2="70" y2="45" stroke="white" stroke-width="2">
-    <animate attributeName="x2" values="70;65;70" dur="0.5s" repeatCount="indefinite"/>
-  </line>
-  
-  <line x1="50" y1="55" x2="35" y2="75" stroke="white" stroke-width="2">
-    <animate attributeName="x2" values="35;45;35" dur="0.5s" repeatCount="indefinite"/>
-  </line>
-  
-  <line x1="50" y1="55" x2="65" y2="75" stroke="white" stroke-width="2">
-    <animate attributeName="x2" values="65;55;65" dur="0.5s" repeatCount="indefinite"/>
-  </line>
-</svg>
+  <img src="https://raw.githubusercontent.com/username/repo/main/assets/stickman.gif" width="200">
 </p>
 
 ---
