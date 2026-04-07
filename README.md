@@ -1,8 +1,3 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Wilson&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
