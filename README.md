@@ -298,8 +298,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffcc00,25:00ff88,50:2afadf,75:7928ca,100:ff0080" width="100%"/>
 
 </div>
-
 ---
