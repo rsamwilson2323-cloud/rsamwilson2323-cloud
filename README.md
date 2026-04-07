@@ -1,58 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header
-&text=Sam%20Wilson
-&fontSize=42
-&fontColor=ffffff
-&animation=twinkling
-&fontAlignY=32
-&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder
-&descAlignY=55
-&descSize=18
-&color=gradient
-&customColorList=0,2,3,5,6,8,10,12,14,18,20,24
-" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Sam%20Wilson&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
 </div>
-
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header
-&text=Sam%20Wilson
-&fontSize=42
-&fontColor=ffffff
-&animation=twinkling
-&fontAlignY=32
-&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder
-&descAlignY=55
-&descSize=18
-&color=gradient
-&customColorList=6,12,18,24,30,36
-" width="100%"/>
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header
-&text=Sam%20Wilson
-&fontSize=42
-&fontColor=ffffff
-&animation=twinkling
-&fontAlignY=32
-&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder
-&descAlignY=55
-&descSize=18
-&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00
-" width="100%"/>
-
-</div>
-
 
 
 
