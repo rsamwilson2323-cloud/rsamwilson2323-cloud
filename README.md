@@ -3,13 +3,6 @@
 </div>
 
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Wilson&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
-
-</div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sam+Wilson!;AI+%7C+ML+%7C+Computer+Vision+%7C+IoT;I+turn+ideas+into+real+working+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
