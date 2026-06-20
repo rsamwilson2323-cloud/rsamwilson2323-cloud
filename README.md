@@ -1,39 +1,4 @@
 <div align="center">
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212750682-048c98e7-a7f1-4f50-8c0c-66b9c6f99e3e.gif" width="100" alt="Python">
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212750697-4f1c4d6b-7f52-4e57-a7a6-88b2d97f4a3e.gif" width="100" alt="C++">
-</a>
-
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212750706-0c1e84c0-5f79-4f64-9d18-bb0a4d76e87f.gif" width="100" alt="C">
-</a>
-
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212750713-9f2d6c80-c2b7-4d5f-b4cb-ef4bcd1f8b56.gif" width="100" alt="JavaScript">
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212750721-7d4e6d5e-83d2-45d0-91bc-4f1b5d4d62f1.gif" width="100" alt="Java">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212750730-5d2e1c4a-8f87-4c65-8d42-2d4e7b5a2b3d.gif" width="100" alt="HTML">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212750739-9e1f5c7d-6a3b-4f8f-9a7c-5b2d3e4f6a7b.gif" width="100" alt="CSS">
-</a>
-
-</div>
-
-
----
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Sam%20Wilson&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
 </div>
 
