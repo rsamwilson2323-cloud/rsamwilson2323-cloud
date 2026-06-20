@@ -41,7 +41,7 @@
 - 🔌 I love combining **software + hardware** to create smart systems
 - 🌱 Currently learning **Advanced Deep Learning & Full Stack Dev**
 - 💡 I don't just learn technologies — **I build with them**
-- ⚡ Fun fact: I turn simple ideas into real, working systems 🚀
+- ⚡ Fun fact: I turn simple ideas into real, working systems 
 
 <br clear="right"/>
 
