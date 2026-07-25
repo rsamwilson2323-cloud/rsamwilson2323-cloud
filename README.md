@@ -17,6 +17,44 @@
 </picture>
 
 ---
+<table align="center" border="0">
+
+<tr>
+
+<td width="35%" align="center" valign="middle">
+
+<!-- 🪪 Your Lanyard ID Card -->
+<img src="./sam-lanyard.svg?v=1" alt="Sam Wilson ID Badge" width="300"/>
+
+</td>
+
+<td width="65%" valign="middle">
+
+### 🤖 A Little About My AI/ML Journey
+
+- 🎓 B.E. Computer Science Engineering (AI & ML) student from **Tamil Nadu, India**
+
+- 🧠 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning, Generative AI, and Full-Stack Development**
+
+- 🚀 Building real-world projects including **AI-Powered Intruder Detection System, Office Posture Monitor, Vehicle Counter, Face Recognition, Emotion Detection, and Interactive 3D Web Applications**
+
+- 💻 Experienced with **Python, OpenCV, YOLOv8, MediaPipe, TensorFlow, Streamlit, React, JavaScript, HTML, CSS, and GitHub**
+
+- 🎯 Constantly learning, building innovative solutions, contributing to open-source projects, and preparing for a successful software engineering career
+
+<br/>
+
+> 💜 *"Code. Create. Innovate. Never Stop Learning."*
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+---
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
