@@ -23,8 +23,8 @@
 
 <td width="35%" align="center" valign="middle">
 
-<!-- 🪪 Your Lanyard ID Card -->
-<img src="./sam-lanyard.svg?v=1" alt="Sam Wilson ID Badge" width="300"/>
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./SAM-ID.svg?v=1" alt="Sam Wilson ID Badge" width="300"/>
 
 </td>
 
@@ -53,7 +53,6 @@
 </table>
 
 <br/>
-
 ---
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
