@@ -30,21 +30,21 @@
 
 <td width="65%" valign="middle">
 
-### 🤖 A Little About My AI/ML Journey
+### 🚀 Turning Ideas into Intelligent Solutions
 
-- 🎓 B.E. Computer Science Engineering (AI & ML) student from **Tamil Nadu, India**
+- 🎓 B.E. Computer Science Engineering (AI & ML) student with a passion for solving real-world problems through technology
 
-- 🧠 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning, Generative AI, and Full-Stack Development**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, Robotics, and Full-Stack Development**
 
-- 🚀 Building real-world projects including **AI-Powered Intruder Detection System, Office Posture Monitor, Vehicle Counter, Face Recognition, Emotion Detection, and Interactive 3D Web Applications**
+- 💡 I enjoy transforming creative ideas into practical applications—from AI-powered systems to interactive web experiences
 
-- 💻 Experienced with **Python, OpenCV, YOLOv8, MediaPipe, TensorFlow, Streamlit, React, JavaScript, HTML, CSS, and GitHub**
+- 🛠️ Building projects with **Python, OpenCV, YOLO, MediaPipe, TensorFlow, React, JavaScript, HTML, CSS, and modern development tools**
 
-- 🎯 Constantly learning, building innovative solutions, contributing to open-source projects, and preparing for a successful software engineering career
+- 🌱 Every project is an opportunity to learn, improve, and create something meaningful
 
 <br/>
 
-> 💜 *"Code. Create. Innovate. Never Stop Learning."*
+> 💙 *"Building today what inspires tomorrow."*
 
 </td>
 
