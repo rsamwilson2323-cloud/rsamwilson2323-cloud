@@ -17,6 +17,7 @@
 </picture>
 
 ---
+
 <table align="center" border="0">
 
 <tr>
@@ -53,6 +54,7 @@
 </table>
 
 <br/>
+
 ---
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
