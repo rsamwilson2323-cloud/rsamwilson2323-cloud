@@ -267,11 +267,9 @@
 
 ## 🔝 Top Contributed Repos
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight" alt="Profile Details" />
+</p>
 
 
 ---
