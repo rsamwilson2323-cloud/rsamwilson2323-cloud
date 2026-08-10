@@ -409,7 +409,7 @@
 
 ---
 
-## Snake Animation
+## 🐍 Snake Animation
 
 <div align="center">
   
