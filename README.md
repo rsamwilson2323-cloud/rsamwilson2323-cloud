@@ -353,11 +353,12 @@
 </div>
 
 ---
-
-<h2 align="center">👀 Profile Views</h2>
+## 📊 👀 Profile Views
 
 <div align="center">
-  <img src="https://count.getloli.com/@:rsamwilson2323-cloud?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+  
+<img src="https://count.getloli.com/@:rsamwilson2323-cloud?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+  
 </div>
 
 ---
@@ -378,7 +379,9 @@
 ## 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight" alt="Profile Details" />
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight" alt="Profile Details" />
+
 </p>
 
 
@@ -419,7 +422,9 @@
 </div>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 </h3>
 
 ---
