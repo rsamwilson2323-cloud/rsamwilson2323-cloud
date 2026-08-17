@@ -132,6 +132,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40"/></a>
 
 </div>
 
@@ -156,7 +157,6 @@
 <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
 <a href="https://groq.com/" target="_blank"><img src="https://img.shields.io/badge/Groq-%23000000.svg?style=for-the-badge&logo=groq&logoColor=white" height="40"/></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" height="40"/></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge" height="40"/></a>
 <a href="https://ai.google.dev/" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
 <a href="https://ngrok.com/" target="_blank"><img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge" height="40"/></a>
 
@@ -191,46 +191,6 @@
 
 </div>
 
-### 🌐 Frontend Development
-<div align="center">
-
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40"/></a>
-<a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="40"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" height="40"/></a>
-
-</div>
-
-<div align="center">
-
-<a href="https://en.wikipedia.org/wiki/Responsive_web_design" target="_blank"><img src="https://img.shields.io/badge/Responsive%20Design-1976D2?style=for-the-badge" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/User_interface_design" target="_blank"><img src="https://img.shields.io/badge/UI%20Development-6A1B9A?style=for-the-badge" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank"><img src="https://img.shields.io/badge/Frontend%20Architecture-00897B?style=for-the-badge" height="40"/></a>
-<a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/" target="_blank"><img src="https://img.shields.io/badge/Accessibility-455A64?style=for-the-badge" height="40"/></a>
-
-</div>
-
-### ⚙️ Backend & API Development
-<div align="center">
-
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="40"/></a>
-<a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" height="40"/></a>
-
-</div>
-
-<div align="center">
-
-<a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" height="40"/></a>
-<a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Real-time_computing" target="_blank"><img src="https://img.shields.io/badge/Real--Time%20Applications-2E7D32?style=for-the-badge" height="40"/></a>
-
-</div>
 
 ### 🗄️ Databases & ORM
 <div align="center">
@@ -262,7 +222,6 @@
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="40"/></a>
 <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" height="40"/></a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="40"/></a>
-<a href="https://mqtt.org/" target="_blank"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" height="40"/></a>
 <a href="https://www.nvidia.com/" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" height="40"/></a>
 
 </div>
@@ -331,17 +290,6 @@
 
 </div>
 
-### 🧪 Testing & Code Quality
-<div align="center">
-
-<a href="https://en.wikipedia.org/wiki/Software_testing" target="_blank"><img src="https://img.shields.io/badge/Testing-455A64?style=for-the-badge" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Debugging" target="_blank"><img src="https://img.shields.io/badge/Debugging-6A1B9A?style=for-the-badge" height="40"/></a>
-<a href="https://eslint.org/" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" height="40"/></a>
-<a href="https://prettier.io/" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Code_review" target="_blank"><img src="https://img.shields.io/badge/Code%20Review-1565C0?style=for-the-badge" height="40"/></a>
-
-</div>
-
 ### 🧩 Development Concepts
 <div align="center">
 
@@ -356,6 +304,7 @@
 </div>
 
 ---
+
 ## 👀 Profile Views
 
 <div align="center">
