@@ -244,10 +244,6 @@
 <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40"/></a>
 <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="40"/></a>
-<a href="https://inkscape.org/" target="_blank"><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" height="40"/></a>
-<a href="https://proto.io/" target="_blank"><img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff" height="40"/></a>
-<a href="https://www.mockplus.com/" target="_blank"><img src="https://img.shields.io/badge/Mockplus-0052CC?style=for-the-badge&logo=mockplus&logoColor=white" height="40"/></a>
-<a href="https://balsamiq.com/" target="_blank"><img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white" height="40"/></a>
 <a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" height="40"/></a>
 
 </div>
@@ -271,7 +267,6 @@
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40"/></a>
 <a href="https://pnpm.io/" target="_blank"><img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" height="40"/></a>
 <a href="https://bun.sh/" target="_blank"><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="40"/></a>
-<a href="https://storybook.js.org/" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="40"/></a>
 <a href="https://www.tinkercad.com/" target="_blank"><img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white" height="40"/></a>
 <a href="https://replit.com/" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" height="40"/></a>
 <a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40"/></a>
