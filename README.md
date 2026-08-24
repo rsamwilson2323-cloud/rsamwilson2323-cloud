@@ -324,7 +324,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rsamwilson2323-cloud&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=rsamwilson2323-cloud&theme=tokyonight&hide_border=true" />
 
 </div>
 
