@@ -314,9 +314,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rsamwilson2323-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsamwilson2323-cloud&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight" />
 
 </div>
 
@@ -332,15 +330,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight" />
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
