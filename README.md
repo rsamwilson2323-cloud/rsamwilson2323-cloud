@@ -314,25 +314,33 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rsamwilson2323-cloud&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rsamwilson2323-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsamwilson2323-cloud&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rsamwilson2323-cloud&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
+## 📈 GitHub Activity
 
-## 🔝 Top Contributed Repos
+<div align="center">
 
-<p align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsamwilson2323-cloud&theme=tokyonight" />
 
-</p>
-
+</div>
 
 ---
-
 
 ## 🌱 Currently Learning
 
@@ -342,7 +350,6 @@
 📌 Real-world AI Deployment
 📌 Scalable Systems & Automation
 ```
-
 
 ---
 
