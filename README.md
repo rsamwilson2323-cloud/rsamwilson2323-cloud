@@ -77,12 +77,14 @@
 
 ### 💫 About Me
 
-- 🔭 I'm a **passionate student developer** building real-world projects
-- 🤖 Deeply interested in **AI, ML, Computer Vision & Automation**
-- 🔌 I love combining **software + hardware** to create smart systems
-- 🌱 Currently learning **Advanced Deep Learning & Full Stack Dev**
-- 💡 I don't just learn technologies — **I build with them**
-- ⚡ Fun fact: I turn simple ideas into real, working systems 
+* 🔭 I'm a **passionate student developer** building real-world projects
+* 🤖 Deeply interested in **AI, ML, Computer Vision & Automation**
+* 🔌 I love combining **software + hardware** to create smart systems
+* 🌱 Currently learning **Advanced Deep Learning & Full Stack Dev**
+* 💡 I don't just learn technologies — **I build with them**
+* ⚡ Fun fact: I turn simple ideas into real, working systems
+* 🚀 Passionate about creating **innovative AI-powered solutions** that solve everyday problems
+* 🧠 Constantly exploring new technologies and improving my skills through **hands-on projects & experimentation**
 
 <br clear="right"/>
 
