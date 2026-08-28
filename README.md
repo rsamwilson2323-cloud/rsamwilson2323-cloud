@@ -322,11 +322,17 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rsamwilson2323-cloud&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rsamwilson2323-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsamwilson2323-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=rsamwilson2323-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
