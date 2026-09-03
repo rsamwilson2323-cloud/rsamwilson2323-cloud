@@ -209,7 +209,6 @@
 
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/></a>
 <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=microsoft&logoColor=white" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40"/></a>
 <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/></a>
 <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40"/></a>
