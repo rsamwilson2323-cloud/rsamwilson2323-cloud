@@ -1,12 +1,3 @@
-https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif
-https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png
-https://user-images.githubusercontent.com/74038190/206661706-3b7e73eb-4f18-4cc4-99d9-a5b6ab5e2e0a.gif
-https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif
-https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif
-https://user-images.githubusercontent.com/74038190/213911889-c6a4c99c-3b6a-4a5e-a8e8-c4a6c3a1c1f8.gif
-https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif
-
 ---
 
 <div align="center">
