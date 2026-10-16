@@ -345,18 +345,6 @@
 
 ---
 
-
-## 🤝 Open to Collaborate On
-
-<div align="center">
-
-🤖 **AI/ML Projects** &nbsp;|&nbsp; 👁️ **Computer Vision Systems** &nbsp;|&nbsp; 🎨 **UI/UX + Dev** &nbsp;|&nbsp; 🔌 **Hardware + Software Integration**
-
-</div>
-
-
----
-
 ## 🐍 Snake Animation
 
 <div align="center">
